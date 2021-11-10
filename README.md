@@ -1,7 +1,11 @@
-# Scriptor
 <p align="center">
-    <img width="300" src="./public/scriptor-gdsc.png">
+    <img width="500" src="./public/scriptor-gdsc.png">
 </p>
+
+<br/>
+<br/>
+
+
 
 <h1 align="center">scriptor</h1>
 
