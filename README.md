@@ -1,1 +1,1 @@
-# Next.js + Tailwind CSS Example
+# Scriptor
