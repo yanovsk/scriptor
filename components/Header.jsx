@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 import Link from 'next/link';
+import logo from '../public/logo.svg';
 import { getCategories } from '../services';
 
 const Header = () => {
@@ -17,7 +18,7 @@ const Header = () => {
       <div className="border-b w-full inline-block border-blue-400 py-8">
         <div className="md:float-left block">
           <Link href="/">
-            <span className="cursor-pointer font-bold text-4xl text-white">Graph CMS</span>
+            <img src={logo} alt="Logo" />
           </Link>
         </div>
         <div className="hidden md:float-left md:contents">
