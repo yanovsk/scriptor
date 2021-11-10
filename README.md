@@ -1,6 +1,6 @@
 # Scriptor
 <p align="center">
-    <img width="3000" src="./public/scriptor-gdsc.png">
+    <img width="1000" src="./public/scriptor-gdsc.png">
 </p>
 
 <h1 align="center">scriptor</h1>
