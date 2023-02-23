@@ -145,7 +145,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Dimitri Yanovsky  yanovsky00@gmail.com
+Dima Yanovsky  yanovsky00@gmail.com
 
 Project Link: [https://github.com/yanovsk/scriptor](https://github.com/yanovsk/scriptor)
 
